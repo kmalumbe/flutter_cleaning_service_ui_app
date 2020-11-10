@@ -1,0 +1,51 @@
+name: cleaning_service_ui_app
+description: Flutter UI design for cleaning services inspired by post on dribbble.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  bubbled_navigation_bar:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/profileIcon.png
+    - assets/icons/home.png
+    - assets/icons/search.png
+    - assets/icons/cleaning.png
+    - assets/icons/002-window.png
+    - assets/icons/005-washing-clothes.png
+    - assets/icons/018-housekeeping.png
+    - assets/icons/026-dry.png
+    - assets/icons/007-vacuum-1.png
+    - assets/icons/022-vacuum.png
+    - assets/icons/window-cleaner-banner.png
+    - assets/icons/girl-vacuuming.png
+    - assets/images/lady.jpg
+    - assets/images/afro-male.jpg
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 400
