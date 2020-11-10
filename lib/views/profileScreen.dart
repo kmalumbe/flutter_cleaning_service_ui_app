@@ -17,7 +17,7 @@ class ProfileScreen extends StatefulWidget {
 }
 
 class _ProfileScreenState extends State<ProfileScreen> {
-  String userFullName = 'Kambala Malumbe'; //Todo: Get from DB
+  String userFullName = 'John Doe';
 
   @override
   Widget build(BuildContext context) {

@@ -113,8 +113,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
-                          Text('Kambala Malumbe',style: AppTheme.title,),
-                          Text('ksmalumbe@gmail.com',),
+                          Text('John Doe',style: AppTheme.title,),
+                          Text('johndoe@example.com',),
                         ],
                       ),
                     ],
