@@ -1,6 +1,6 @@
 # cleaning_service_ui_app
 
-Flutter UI design for cleaning services inspired by post on dribbble.
+Flutter UI design for cleaning services inspired by <a href= "https://dribbble.com/shots/8021591-Home-Cleaning-Service-Mobile-App">post</a> on dribbble.
 
 ## Getting Started
 
